@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem vinde! 👋
 
 <!--
 **cassandra-mn/cassandra-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
