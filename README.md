@@ -11,7 +11,7 @@
 ### Pode me chamar de Arthência ou Cassandra
   - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Seja bem vinde!!
   - 📚 Atualmente estudo desenvolvimento web na Driven Education.
-  - 🌱 Estou aprendendo Node.js.
+  - 🌱 Estou aprendendo Banco de Dados - SQL.
 
 ### Linguagens e Tecnologias 
     
@@ -20,6 +20,10 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+<p>
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&layout=compact&theme=tokyonight"/>
