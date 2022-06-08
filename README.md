@@ -6,10 +6,11 @@
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&link=https://driventurmas.slack.com/team/U02T6V2D8D8)](https://driventurmas.slack.com/team/U02T8PUEL7N)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cassandra.mn/)](https://www.instagram.com/cassandra.mn/)
 
-<img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif" align="right" width="300px">
+<!-- <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif" align="right" width="30px"> -->
 
 ### Pode me chamar de Arthência ou Cassandra
-  - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Seja bem vinde!!
+<!--   - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Seja bem vinde!! -->
+  - 👋 Seja bem vinde!!
   - 📚 Atualmente estudo desenvolvimento web na Driven Education.
   - 🌱 Estou aprendendo Banco de Dados - SQL.
 
