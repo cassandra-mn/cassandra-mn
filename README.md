@@ -9,7 +9,6 @@
 <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif" align="right" width="300px" height="300px">
 
 ### Pode me chamar de Arthência ou Cassandra
-<!--   - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Seja bem vinde!! -->
   - 👋 Seja bem vinde!!
   - 📚 Atualmente estudo desenvolvimento web na Driven Education.
   - 🌱 Estou aprendendo TypeScript.
@@ -29,3 +28,5 @@
 </p>
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&layout=compact&theme=tokyonight"/>
+
+[![wakatime](https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg)](https://wakatime.com/@8a106989-76e5-49e0-b449-c4677e60eeff)
