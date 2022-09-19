@@ -38,7 +38,7 @@
 
 ##
 
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&layout=compact&theme=tokyonight"/>
-<img height="200px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&show_icons=true&theme=tokyonight" />
+<img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&layout=compact&theme=tokyonight"/>
+<img height="200px" width="480px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&show_icons=true&theme=tokyonight" />
 
 [![wakatime](https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg)](https://wakatime.com/@8a106989-76e5-49e0-b449-c4677e60eeff)
