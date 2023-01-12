@@ -49,11 +49,13 @@
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg"/>
+</p>
 
 ##
 
-<img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
+<!-- <img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
 
 <img height="200px" width="480px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight" />
-
-[![wakatime](https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg)](https://wakatime.com/@8a106989-76e5-49e0-b449-c4677e60eeff)
+ -->
