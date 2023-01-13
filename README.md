@@ -55,7 +55,7 @@
 
 ##
 
-<img height="200px" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
+<img height="200px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
 
-<img height="200px" width="480px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight" />
+<img height="200px" width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight" />
 
