@@ -25,11 +25,12 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -49,13 +50,14 @@
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+
+##
+
 <p align="center">
   <img src="https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg"/>
 </p>
 
-##
-
-<img height="200px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
-
-<img height="200px" width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight" />
-
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
+  <img height="200px" width="480px" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight&layout=compact"/>
+</p>
