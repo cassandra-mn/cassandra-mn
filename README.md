@@ -1,6 +1,4 @@
-## Olá, tudo bem? 
-
-### Seja bem vinde!! 👋
+## Olá, tudo bem? 👋
 
 <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif" align="right" width="200px" height="150px">
 
