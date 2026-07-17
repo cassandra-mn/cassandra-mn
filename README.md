@@ -54,8 +54,3 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/8a106989-76e5-49e0-b449-c4677e60eeff.svg"/>
 </p>
-
-<p align="center">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandra-mn&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>
-  <img height="200px" width="480px" src="https://github-readme-stats.vercel.app/api?username=cassandra-mn&count_private=true&theme=tokyonight&layout=compact"/>
-</p>
